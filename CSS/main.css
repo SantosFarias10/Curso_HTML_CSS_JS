@@ -1,0 +1,36 @@
+/*
+
+* Selector para las etiquetas
+body {
+  background-color: #00efef; fondo
+  color: #ff0000; Cambia el color del texto
+}
+
+* Selector para el id
+#parrafo {
+  color: #ff0000;
+}
+
+* Selector para las clases
+.etiqueta {
+  color: #ffdd00;
+}
+*/
+
+/*Bordes, Margenes y + cosas*/
+/*
+.caja {
+  margin: 8px;
+  padding: 8px;
+  border-style: solid; solid, dotted, dashed, double, groove, ridge, inset, outset, hidden
+  arriba, derecha, abajo, izquierda, si se combina es en ese orden
+  border-width: 8px;
+  border-color: #000;
+  border-left: 10px solid #afa; top, bottom, right
+  background-color: #aaf;
+  border-radius: 8px;
+  height: 100px;
+  width: 100px;
+  color: #575;
+}
+*/
