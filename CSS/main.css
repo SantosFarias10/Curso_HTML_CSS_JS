@@ -34,3 +34,126 @@ body {
   color: #575;
 }
 */
+
+/* 
+Texto
+body {
+  background-color: #eee;
+}
+
+p {
+  color: #222fff;
+  text-align: center; right, left, justify, alinea texto 
+  text-decoration: underline;
+  text-indent: 15px; Sangria
+  line-height: 50px;  Añade altura a las letras
+  word-spacing: 20px;
+  text-shadow: 5px 2px 2px rgba(0,0,0, 0.5); el primero cuanto se tiene que mover para la ..., y el segundo para la ... el tercer parametro es la difuminidad
+  letter-spacing: 3px;
+  font-family: "Monaco"; tipo de letra
+  font-style: oblique;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+a {
+  text-decoration: none; overline (coloca un sobrero al texto), line-through (lo tacha), none, underline (subrayado)
+  text-transform: uppercase; uppercase (texto en mayus), lowercase (texto en minus), capitalize (la primera en mayus)
+  letter-spacing: 5px; Agrega espacio en el texto
+}
+*/
+
+/*
+Links
+body {
+  background-color: #eee;
+}
+
+a {
+  color: hotpink;
+  background-color: #f00;
+  border: solid;
+  border-color: #d00;
+  padding: 15px;
+  margin: 15px;
+  border-radius: 5px;
+}
+
+cuando todavia no se visito
+a:link {
+  color: pink;
+  text-decoration: none;
+}
+
+a:visited {
+  color: blue;
+}
+
+Mouse por encima
+a:hover {
+  color: white;
+  background-color: #f55;
+}
+
+Cuando damos click
+a:active {
+  color: black;
+
+}
+*/
+
+
+/*
+Listas
+body {
+  background-color: #eee;
+}
+
+ul li {
+  list-style-type: none; square,upper-roman,lower-alpha
+}
+
+ul {
+  background-color:  #ffffff;
+  border: solid 2px #ddd;
+  border-radius: 5px;
+  padding-left: 0px;
+}
+
+li {
+  border-bottom: solid 2px #ddd;
+  padding: 15px;
+}
+*/
+
+/*
+Tablas
+body {
+  background-color: #eee;
+}
+
+table {
+  width: 100%;
+  background-color: white;
+  border-collapse: collapse;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table th {
+  background-color: #4caf50;
+  color: white;
+  text-align: left;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+*/
