@@ -1,0 +1,40 @@
+body {
+  background-color: #eee;
+}
+
+.caja {
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #ccc;
+  border-radius: 5px;
+  border-top: solid 0px;
+}
+
+.contenido {
+  padding: 10px;
+}
+
+.footer {
+  padding: 10px;
+  border-top: solid 2px #eee;
+}
+
+.primero {
+  background-color: #0090ff;
+  padding: 5px;
+  border: 0px;
+  color: #fff;
+}
+
+.segundo {
+  background-color: #aaa;
+  padding: 5px;
+  border: 0px;
+  color: #fff;
+}
+
+.header {
+  padding:  10px;
+  border-bottom: solid 2px #eee;
+}
