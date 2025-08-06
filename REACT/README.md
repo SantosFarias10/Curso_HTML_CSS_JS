@@ -37,3 +37,7 @@ import ReactDOM from "react-dom/client";
 const root = ReactDOM.createRoot(document.getElementById("app"));
 root.render(<h1>Hola React</h1>);
 ```
+
+## Vite
+
+Usamos vite para inicializar el proyecto
